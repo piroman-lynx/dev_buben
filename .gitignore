@@ -16,3 +16,8 @@
 *.exe
 *.out
 *.app
+*.mod.c
+modules.order
+*.cmd
+.tmp_versions
+Module.symvers
