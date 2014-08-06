@@ -6,11 +6,11 @@ dev_buben
 How to
 ======
 
-mk@mackine:~/dev_buben$ make
+mk@machine:~/dev_buben$ make
 
-mk@mackine:~/dev_buben$ sudo /sbin/insmod devbuben.ko
+mk@machine:~/dev_buben$ sudo /sbin/insmod devbuben.ko
 
-mk@mackine:~/dev_buben$ sudo cat /dev/buben 
+mk@machine:~/dev_buben$ sudo cat /dev/buben 
 
 Buben is works!
 
